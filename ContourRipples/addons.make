@@ -1,0 +1,4 @@
+ofxFX
+ofxGui
+ofxOpenCv
+ofxSyphon
